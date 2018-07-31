@@ -108,6 +108,7 @@ p {
     border-right: solid 1px #fff;
     width: 110px;
     text-align: center;
+    transition: all 0.3s ease-in-out;
 }
 
 .main-nav>ul>li:hover {
