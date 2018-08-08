@@ -250,6 +250,9 @@ footer {
         width: 95%;
         margin-top: 5%;
     }
+    .main-nav {
+        margin-top: 3%;
+    }
     .main-nav>ul {
         flex-flow: wrap;
         border: none;
